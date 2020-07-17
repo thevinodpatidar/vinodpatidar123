@@ -5,10 +5,12 @@
 ![JavaScript Logo](/img/javascript64.png)
 ![Nodejs Logo](/img/nodejs64.png)
 ![Nodejs Logo](/img/angular64.png)
+![Nodejs Logo](/img/postgresql64.png)
 
 
 ### 🌱 I’m currently learning ...
 ![React-Native Logo](/img/reactnative64.png)
+![React-Native Logo](/img/redux64.png)
 
 ### 📫 How to reach me:- 
 [Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
