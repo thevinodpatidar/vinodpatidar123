@@ -7,4 +7,6 @@
 ### 🌱 I’m currently learning ...
 ![React-Native Logo]()
 
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
+### 📫 How to reach me: ...
+[Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
+[Email](pvinod813@gmail.com)
