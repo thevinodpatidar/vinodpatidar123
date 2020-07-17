@@ -2,6 +2,8 @@
 
 <p align="center">
   <img width="100" height="100" src="https://user-images.githubusercontent.com/26193656/87820033-ee766500-c88a-11ea-85cb-3fe5b254b441.png">
+  <p><i>Hello, I'm Vinod Patidar - Full Stack Developer</i></p>
+  <p><b>I create scaleble and robust solution.</b></p>
 </p>
 
 ### 🔭 I’m currently working on ...
