@@ -6,7 +6,7 @@
 
 
 ### 🌱 I’m currently learning ...
-![React-Native Logo]()
+![React-Native Logo](/img/reactnative64.png)
 
 ### 📫 How to reach me:- 
 [Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
