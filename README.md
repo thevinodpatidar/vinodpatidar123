@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Space](https://user-images.githubusercontent.com/26193656/87820033-ee766500-c88a-11ea-85cb-3fe5b254b441.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/26193656/87820033-ee766500-c88a-11ea-85cb-3fe5b254b441.png">
+</p>
 
 ### 🔭 I’m currently working on ...
 ![React Logo](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png)
