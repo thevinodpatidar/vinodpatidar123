@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 ![React Logo](/img/react.svg)
-![JavaScript Logo](/img/javascript.png)
+![JavaScript Logo](/img/JavaScript.svg)
 
 
 ### 🌱 I’m currently learning ...
