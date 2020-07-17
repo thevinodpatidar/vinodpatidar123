@@ -4,7 +4,9 @@
 ![React Logo](https://camo.githubusercontent.com/cc0bcec74ad4d53ed2b0cc12da2026e402fd7872/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3032362f7371756172655f36342f72656163742e706e67)
 ![JavaScript Logo](https://camo.githubusercontent.com/39efa68df23463b97f679579eac381fe19bdbe18/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3230352f7371756172655f36342f6a6176617363726970746c616e672e706e67)
 
+
 ### 🌱 I’m currently learning ...
 ![React-Native Logo]()
 
-### 📫 How to reach me: ... - [Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
+### 📫 How to reach me:- 
+[Linkedin](https://www.linkedin.com/in/vinodpatidar813/)
