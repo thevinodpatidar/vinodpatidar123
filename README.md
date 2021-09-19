@@ -15,8 +15,8 @@
 
 
 ### 🌱 I’m currently learning ...
-![C#](https://user-images.githubusercontent.com/26193656/121814338-582afa80-cc25-11eb-80f0-df1a1e7cce73.png)
-![.net Core](https://user-images.githubusercontent.com/26193656/121814261-e783de00-cc24-11eb-8ecd-6a129586c435.png)
+<!-- ![C#](https://user-images.githubusercontent.com/26193656/121814338-582afa80-cc25-11eb-80f0-df1a1e7cce73.png)
+![.net Core](https://user-images.githubusercontent.com/26193656/121814261-e783de00-cc24-11eb-8ecd-6a129586c435.png) -->
 ![React-Native Logo](https://user-images.githubusercontent.com/26193656/87819639-2f21ae80-c88a-11ea-880f-8e0e3ac8a7bb.png)
 ![Redux Logo](https://user-images.githubusercontent.com/26193656/87819665-39dc4380-c88a-11ea-9bf1-001f4d947fcb.png)
 
